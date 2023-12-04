@@ -1,3 +1,6 @@
+I have pasted my final code used below. It is also available in the "Code Solution for Stock Analysis" file and can be accessed through the "Alphabetical Worksheets with Code". I worked with a tutor and pieced together different approaches to the multi-worksheet loop from Stack Overflow. Screenshots saved in .png and Code in .bas, and Excel workbooks in .xlsm so that macros can be enabled.
+
+
 # VBA_challenge
 Challenge 2 VBA for Bootcamp Code Solution
 
